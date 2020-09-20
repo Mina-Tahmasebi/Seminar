@@ -8,19 +8,50 @@ body{
     text-align: left;
 }
 
-#header , #navbar {
+#header, #navbar {
     background-color: #555555;
     margin: 10px;
     border-radius: 5px;
     padding: 5px;
-   }
+}
+
 #header {
     height: 80px;
 }
 
 #navbar {
-    height: 30px;
+    height: 40px;
 }
+
+#navbar ul{
+    margin: 0px;
+    padding: 0px;
+}
+
+#navbar ul li{
+    margin: 0px;
+    padding: 0px;
+    float: left;
+    width: 120px;
+    height: 40px;
+    line-height: 30px;
+    list-style: none;
+    text-align: center;
+}
+
+#navbar ul li a{
+    text-decoration: none;
+}
+
+#navbar ul li:hover ul{
+    display: block;
+    z-index: 999;
+}
+
+#navbar ul li ul{
+    display: none;
+}
+
 .main{
     background-color: #999999;
     padding: 15px;
@@ -31,7 +62,6 @@ body{
 }
 h1{
     color:#950000;
-    font-size: 150;
 }
 .sidebar{
     background-color: #999999;
@@ -45,6 +75,7 @@ h1{
 }
 .img1{
     float: right;
+    
 }
 
 .p{
