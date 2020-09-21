@@ -1,9 +1,9 @@
-body{
+body {
     background-color: rgb(190, 190, 190);
     font-size: 18px;
     margin: 0px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight:bold;
+    font-weight: bold;
     font-style: normal;
     text-align: left;
 }
@@ -23,59 +23,59 @@ body{
     height: 45px;
 }
 
-#navbar ul{
-    margin: 0px;
-    padding: 0px;
-}
+    #navbar ul {
+        margin: 0px;
+        padding: 0px;
+    }
 
-#navbar ul li{
-    margin: 0px;
-    padding: 0px;
-    float: left;
-    width: 120px;
-    height: 40px;
-    line-height: 30px;
-    list-style: none;
-    text-align: center;
-    background: #2ecc71;
-}
+        #navbar ul li {
+            margin: 0px;
+            padding: 0px;
+            float: left;
+            width: 120px;
+            height: 40px;
+            line-height: 30px;
+            list-style: none;
+            text-align: center;
+            background: #2ecc71;
+        }
 
-#navbar ul li a{
-    text-decoration: none;
-    color:white;
-    font-weight:bold;
-}
+            #navbar ul li a {
+                text-decoration: none;
+                color: white;
+                font-weight: bold;
+            }
 
-#navbar ul li:hover ul{
-    display: block;
-    z-index: 999;
-}
+            #navbar ul li:hover ul {
+                display: block;
+                z-index: 999;
+            }
 
-#navbar ul li ul{
-    display: none;
-    
-}
-#navbar ul li :hover{
-    background:#555555; 
-}
-#navbar ul li :hover a {
-    color: #2ecc71;
-}
-#navbar ul li {
-    background:#555555;
-}
-#navbar ul li :hover {
-    background: #2ecc71;
-}
-#navbar ul li :hover a {
-    color:#555555;
-}
-   
+            #navbar ul li ul {
+                display: none;
+            }
 
+            #navbar ul li :hover {
+                background: #555555;
+            }
 
+                #navbar ul li :hover a {
+                    color: #2ecc71;
+                }
 
+        #navbar ul li {
+            background: #555555;
+        }
 
-.main{
+            #navbar ul li :hover {
+                background: #2ecc71;
+            }
+
+                #navbar ul li :hover a {
+                    color: #555555;
+                }
+
+.main {
     background-color: #999999;
     padding: 15px;
     margin: 10px;
@@ -83,10 +83,12 @@ body{
     font-size: 110%;
     margin-left: 300px;
 }
-h1{
-    color:#950000;
+
+h1 {
+    color: #950000;
 }
-.sidebar{
+
+.sidebar {
     background-color: #999999;
     padding: 15px;
     margin: 0px 10px 10px 10px;
@@ -96,14 +98,13 @@ h1{
     float: left;
     clear: left;
 }
-.img1{
+
+.img1 {
     float: right;
-    
 }
 
-.p{
+.p {
     font-size: 40px;
     float: right;
     clear: right;
-
 }
