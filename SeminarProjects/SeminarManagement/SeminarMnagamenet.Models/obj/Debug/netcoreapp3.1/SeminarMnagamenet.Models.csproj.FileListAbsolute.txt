@@ -1,0 +1,6 @@
+C:\Users\minat\OneDrive\Desktop\githubSeminar\Seminar-\SeminarProjects\SeminarManagement\SeminarMnagamenet.Models\bin\Debug\netcoreapp3.1\SeminarManagement.Api.dll
+C:\Users\minat\OneDrive\Desktop\githubSeminar\Seminar-\SeminarProjects\SeminarManagement\SeminarMnagamenet.Models\bin\Debug\netcoreapp3.1\SeminarManagement.Services.dll
+C:\Users\minat\OneDrive\Desktop\githubSeminar\Seminar-\SeminarProjects\SeminarManagement\SeminarMnagamenet.Models\bin\Debug\netcoreapp3.1\SeminarManagement.Api.pdb
+C:\Users\minat\OneDrive\Desktop\githubSeminar\Seminar-\SeminarProjects\SeminarManagement\SeminarMnagamenet.Models\obj\Debug\netcoreapp3.1\SeminarMnagamenet.Models.csprojAssemblyReference.cache
+C:\Users\minat\OneDrive\Desktop\githubSeminar\Seminar-\SeminarProjects\SeminarManagement\SeminarMnagamenet.Models\obj\Debug\netcoreapp3.1\SeminarMnagamenet.Models.AssemblyInfoInputs.cache
+C:\Users\minat\OneDrive\Desktop\githubSeminar\Seminar-\SeminarProjects\SeminarManagement\SeminarMnagamenet.Models\obj\Debug\netcoreapp3.1\SeminarMnagamenet.Models.AssemblyInfo.cs

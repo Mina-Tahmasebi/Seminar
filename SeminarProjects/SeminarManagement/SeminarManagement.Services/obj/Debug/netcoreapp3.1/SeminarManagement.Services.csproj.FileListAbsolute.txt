@@ -1,0 +1,15 @@
+C:\Users\minat\OneDrive\Desktop\githubSeminar\Seminar-\SeminarProjects\SeminarManagement\SeminarManagement.Services\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\minat\OneDrive\Desktop\githubSeminar\Seminar-\SeminarProjects\SeminarManagement\SeminarManagement.Services\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\minat\OneDrive\Desktop\githubSeminar\Seminar-\SeminarProjects\SeminarManagement\SeminarManagement.Services\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\minat\OneDrive\Desktop\githubSeminar\Seminar-\SeminarProjects\SeminarManagement\SeminarManagement.Services\bin\Debug\netcoreapp3.1\SeminarManagement.Api.exe
+C:\Users\minat\OneDrive\Desktop\githubSeminar\Seminar-\SeminarProjects\SeminarManagement\SeminarManagement.Services\bin\Debug\netcoreapp3.1\SeminarManagement.Services.deps.json
+C:\Users\minat\OneDrive\Desktop\githubSeminar\Seminar-\SeminarProjects\SeminarManagement\SeminarManagement.Services\bin\Debug\netcoreapp3.1\SeminarManagement.Services.dll
+C:\Users\minat\OneDrive\Desktop\githubSeminar\Seminar-\SeminarProjects\SeminarManagement\SeminarManagement.Services\bin\Debug\netcoreapp3.1\SeminarManagement.Api.dll
+C:\Users\minat\OneDrive\Desktop\githubSeminar\Seminar-\SeminarProjects\SeminarManagement\SeminarManagement.Services\bin\Debug\netcoreapp3.1\SeminarManagement.Api.pdb
+C:\Users\minat\OneDrive\Desktop\githubSeminar\Seminar-\SeminarProjects\SeminarManagement\SeminarManagement.Services\obj\Debug\netcoreapp3.1\SeminarManagement.Services.csprojAssemblyReference.cache
+C:\Users\minat\OneDrive\Desktop\githubSeminar\Seminar-\SeminarProjects\SeminarManagement\SeminarManagement.Services\obj\Debug\netcoreapp3.1\SeminarManagement.Services.AssemblyInfoInputs.cache
+C:\Users\minat\OneDrive\Desktop\githubSeminar\Seminar-\SeminarProjects\SeminarManagement\SeminarManagement.Services\obj\Debug\netcoreapp3.1\SeminarManagement.Services.AssemblyInfo.cs
+C:\Users\minat\OneDrive\Desktop\githubSeminar\Seminar-\SeminarProjects\SeminarManagement\SeminarManagement.Services\obj\Debug\netcoreapp3.1\SeminarManagement.Services.csproj.CopyComplete
+C:\Users\minat\OneDrive\Desktop\githubSeminar\Seminar-\SeminarProjects\SeminarManagement\SeminarManagement.Services\bin\Debug\netcoreapp3.1\SeminarManagement.Services.runtimeconfig.json
+C:\Users\minat\OneDrive\Desktop\githubSeminar\Seminar-\SeminarProjects\SeminarManagement\SeminarManagement.Services\bin\Debug\netcoreapp3.1\SeminarManagement.Services.runtimeconfig.dev.json
+C:\Users\minat\OneDrive\Desktop\githubSeminar\Seminar-\SeminarProjects\SeminarManagement\SeminarManagement.Services\obj\Debug\netcoreapp3.1\SeminarManagement.Services.genruntimeconfig.cache
