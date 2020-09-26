@@ -1,0 +1,30 @@
+C:\Users\minat\OneDrive\Desktop\SeminarManagement\SeminarManagment\SeminarManagement.Database.EFCore\bin\Debug\netcoreapp3.1\SeminarManagement.Database.EFCore.deps.json
+C:\Users\minat\OneDrive\Desktop\SeminarManagement\SeminarManagment\SeminarManagement.Database.EFCore\bin\Debug\netcoreapp3.1\SeminarManagement.Database.EFCore.runtimeconfig.json
+C:\Users\minat\OneDrive\Desktop\SeminarManagement\SeminarManagment\SeminarManagement.Database.EFCore\bin\Debug\netcoreapp3.1\SeminarManagement.Database.EFCore.runtimeconfig.dev.json
+C:\Users\minat\OneDrive\Desktop\SeminarManagement\SeminarManagment\SeminarManagement.Database.EFCore\bin\Debug\netcoreapp3.1\SeminarManagement.Database.EFCore.dll
+C:\Users\minat\OneDrive\Desktop\SeminarManagement\SeminarManagment\SeminarManagement.Database.EFCore\bin\Debug\netcoreapp3.1\SeminarManagement.Database.EFCore.pdb
+C:\Users\minat\OneDrive\Desktop\SeminarManagement\SeminarManagment\SeminarManagement.Database.EFCore\bin\Debug\netcoreapp3.1\SeminarMnagamenet.Models.dll
+C:\Users\minat\OneDrive\Desktop\SeminarManagement\SeminarManagment\SeminarManagement.Database.EFCore\bin\Debug\netcoreapp3.1\SeminarMnagamenet.Models.pdb
+C:\Users\minat\OneDrive\Desktop\SeminarManagement\SeminarManagment\SeminarManagement.Database.EFCore\obj\Debug\netcoreapp3.1\SeminarManagement.Database.EFCore.csprojAssemblyReference.cache
+C:\Users\minat\OneDrive\Desktop\SeminarManagement\SeminarManagment\SeminarManagement.Database.EFCore\obj\Debug\netcoreapp3.1\SeminarManagement.Database.EFCore.AssemblyInfoInputs.cache
+C:\Users\minat\OneDrive\Desktop\SeminarManagement\SeminarManagment\SeminarManagement.Database.EFCore\obj\Debug\netcoreapp3.1\SeminarManagement.Database.EFCore.AssemblyInfo.cs
+C:\Users\minat\OneDrive\Desktop\SeminarManagement\SeminarManagment\SeminarManagement.Database.EFCore\obj\Debug\netcoreapp3.1\SeminarManagement.Database.EFCore.csproj.CoreCompileInputs.cache
+C:\Users\minat\OneDrive\Desktop\SeminarManagement\SeminarManagment\SeminarManagement.Database.EFCore\obj\Debug\netcoreapp3.1\SeminarManagement.Database.EFCore.csproj.CopyComplete
+C:\Users\minat\OneDrive\Desktop\SeminarManagement\SeminarManagment\SeminarManagement.Database.EFCore\obj\Debug\netcoreapp3.1\SeminarManagement.Database.EFCore.dll
+C:\Users\minat\OneDrive\Desktop\SeminarManagement\SeminarManagment\SeminarManagement.Database.EFCore\obj\Debug\netcoreapp3.1\SeminarManagement.Database.EFCore.pdb
+C:\Users\minat\OneDrive\Desktop\SeminarManagement\SeminarManagment\SeminarManagement.Database.EFCore\obj\Debug\netcoreapp3.1\SeminarManagement.Database.EFCore.genruntimeconfig.cache
+C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Database.EFCore\bin\Debug\netcoreapp3.1\SeminarManagement.Database.EFCore.deps.json
+C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Database.EFCore\bin\Debug\netcoreapp3.1\SeminarManagement.Database.EFCore.runtimeconfig.json
+C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Database.EFCore\bin\Debug\netcoreapp3.1\SeminarManagement.Database.EFCore.runtimeconfig.dev.json
+C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Database.EFCore\bin\Debug\netcoreapp3.1\SeminarManagement.Database.EFCore.dll
+C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Database.EFCore\bin\Debug\netcoreapp3.1\SeminarManagement.Database.EFCore.pdb
+C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Database.EFCore\bin\Debug\netcoreapp3.1\SeminarMnagamenet.Models.dll
+C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Database.EFCore\bin\Debug\netcoreapp3.1\SeminarMnagamenet.Models.pdb
+C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Database.EFCore\obj\Debug\netcoreapp3.1\SeminarManagement.Database.EFCore.csprojAssemblyReference.cache
+C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Database.EFCore\obj\Debug\netcoreapp3.1\SeminarManagement.Database.EFCore.AssemblyInfoInputs.cache
+C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Database.EFCore\obj\Debug\netcoreapp3.1\SeminarManagement.Database.EFCore.AssemblyInfo.cs
+C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Database.EFCore\obj\Debug\netcoreapp3.1\SeminarManagement.Database.EFCore.csproj.CoreCompileInputs.cache
+C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Database.EFCore\obj\Debug\netcoreapp3.1\SeminarManagement.Database.EFCore.csproj.CopyComplete
+C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Database.EFCore\obj\Debug\netcoreapp3.1\SeminarManagement.Database.EFCore.dll
+C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Database.EFCore\obj\Debug\netcoreapp3.1\SeminarManagement.Database.EFCore.pdb
+C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Database.EFCore\obj\Debug\netcoreapp3.1\SeminarManagement.Database.EFCore.genruntimeconfig.cache

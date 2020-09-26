@@ -1,0 +1,24 @@
+C:\Users\minat\OneDrive\Desktop\SeminarManagement\SeminarManagment\SeminarMnagamenet.Models\bin\Debug\netcoreapp3.1\SeminarMnagamenet.Models.deps.json
+C:\Users\minat\OneDrive\Desktop\SeminarManagement\SeminarManagment\SeminarMnagamenet.Models\bin\Debug\netcoreapp3.1\SeminarMnagamenet.Models.runtimeconfig.json
+C:\Users\minat\OneDrive\Desktop\SeminarManagement\SeminarManagment\SeminarMnagamenet.Models\bin\Debug\netcoreapp3.1\SeminarMnagamenet.Models.runtimeconfig.dev.json
+C:\Users\minat\OneDrive\Desktop\SeminarManagement\SeminarManagment\SeminarMnagamenet.Models\bin\Debug\netcoreapp3.1\SeminarMnagamenet.Models.dll
+C:\Users\minat\OneDrive\Desktop\SeminarManagement\SeminarManagment\SeminarMnagamenet.Models\bin\Debug\netcoreapp3.1\SeminarMnagamenet.Models.pdb
+C:\Users\minat\OneDrive\Desktop\SeminarManagement\SeminarManagment\SeminarMnagamenet.Models\obj\Debug\netcoreapp3.1\SeminarMnagamenet.Models.csprojAssemblyReference.cache
+C:\Users\minat\OneDrive\Desktop\SeminarManagement\SeminarManagment\SeminarMnagamenet.Models\obj\Debug\netcoreapp3.1\SeminarMnagamenet.Models.AssemblyInfoInputs.cache
+C:\Users\minat\OneDrive\Desktop\SeminarManagement\SeminarManagment\SeminarMnagamenet.Models\obj\Debug\netcoreapp3.1\SeminarMnagamenet.Models.AssemblyInfo.cs
+C:\Users\minat\OneDrive\Desktop\SeminarManagement\SeminarManagment\SeminarMnagamenet.Models\obj\Debug\netcoreapp3.1\SeminarMnagamenet.Models.csproj.CoreCompileInputs.cache
+C:\Users\minat\OneDrive\Desktop\SeminarManagement\SeminarManagment\SeminarMnagamenet.Models\obj\Debug\netcoreapp3.1\SeminarMnagamenet.Models.dll
+C:\Users\minat\OneDrive\Desktop\SeminarManagement\SeminarManagment\SeminarMnagamenet.Models\obj\Debug\netcoreapp3.1\SeminarMnagamenet.Models.pdb
+C:\Users\minat\OneDrive\Desktop\SeminarManagement\SeminarManagment\SeminarMnagamenet.Models\obj\Debug\netcoreapp3.1\SeminarMnagamenet.Models.genruntimeconfig.cache
+C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarMnagamenet.Models\bin\Debug\netcoreapp3.1\SeminarMnagamenet.Models.deps.json
+C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarMnagamenet.Models\bin\Debug\netcoreapp3.1\SeminarMnagamenet.Models.runtimeconfig.json
+C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarMnagamenet.Models\bin\Debug\netcoreapp3.1\SeminarMnagamenet.Models.runtimeconfig.dev.json
+C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarMnagamenet.Models\bin\Debug\netcoreapp3.1\SeminarMnagamenet.Models.dll
+C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarMnagamenet.Models\bin\Debug\netcoreapp3.1\SeminarMnagamenet.Models.pdb
+C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarMnagamenet.Models\obj\Debug\netcoreapp3.1\SeminarMnagamenet.Models.csprojAssemblyReference.cache
+C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarMnagamenet.Models\obj\Debug\netcoreapp3.1\SeminarMnagamenet.Models.AssemblyInfoInputs.cache
+C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarMnagamenet.Models\obj\Debug\netcoreapp3.1\SeminarMnagamenet.Models.AssemblyInfo.cs
+C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarMnagamenet.Models\obj\Debug\netcoreapp3.1\SeminarMnagamenet.Models.csproj.CoreCompileInputs.cache
+C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarMnagamenet.Models\obj\Debug\netcoreapp3.1\SeminarMnagamenet.Models.dll
+C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarMnagamenet.Models\obj\Debug\netcoreapp3.1\SeminarMnagamenet.Models.pdb
+C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarMnagamenet.Models\obj\Debug\netcoreapp3.1\SeminarMnagamenet.Models.genruntimeconfig.cache

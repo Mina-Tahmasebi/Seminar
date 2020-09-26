@@ -1,6 +1,0 @@
-C:\Users\minat\OneDrive\Desktop\githubSeminar\Seminar-\SeminarProjects\SeminarManagement\SeminarManagement.Databse.EFCore\bin\Debug\netcoreapp3.1\SeminarManagement.Api.dll
-C:\Users\minat\OneDrive\Desktop\githubSeminar\Seminar-\SeminarProjects\SeminarManagement\SeminarManagement.Databse.EFCore\bin\Debug\netcoreapp3.1\SeminarManagement.Services.dll
-C:\Users\minat\OneDrive\Desktop\githubSeminar\Seminar-\SeminarProjects\SeminarManagement\SeminarManagement.Databse.EFCore\bin\Debug\netcoreapp3.1\SeminarManagement.Api.pdb
-C:\Users\minat\OneDrive\Desktop\githubSeminar\Seminar-\SeminarProjects\SeminarManagement\SeminarManagement.Databse.EFCore\obj\Debug\netcoreapp3.1\SeminarManagement.Databse.EFCore.csprojAssemblyReference.cache
-C:\Users\minat\OneDrive\Desktop\githubSeminar\Seminar-\SeminarProjects\SeminarManagement\SeminarManagement.Databse.EFCore\obj\Debug\netcoreapp3.1\SeminarManagement.Databse.EFCore.AssemblyInfoInputs.cache
-C:\Users\minat\OneDrive\Desktop\githubSeminar\Seminar-\SeminarProjects\SeminarManagement\SeminarManagement.Databse.EFCore\obj\Debug\netcoreapp3.1\SeminarManagement.Databse.EFCore.AssemblyInfo.cs

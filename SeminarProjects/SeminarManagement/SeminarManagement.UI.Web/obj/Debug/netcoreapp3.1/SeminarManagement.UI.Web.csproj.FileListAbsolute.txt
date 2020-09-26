@@ -1,8 +1,0 @@
-C:\Users\minat\OneDrive\Desktop\githubSeminar\Seminar-\SeminarProjects\SeminarManagement\SeminarManagement.UI.Web\bin\Debug\netcoreapp3.1\SeminarManagement.UI.Web.deps.json
-C:\Users\minat\OneDrive\Desktop\githubSeminar\Seminar-\SeminarProjects\SeminarManagement\SeminarManagement.UI.Web\bin\Debug\netcoreapp3.1\SeminarManagement.UI.Web.dll
-C:\Users\minat\OneDrive\Desktop\githubSeminar\Seminar-\SeminarProjects\SeminarManagement\SeminarManagement.UI.Web\obj\Debug\netcoreapp3.1\SeminarManagement.UI.Web.csprojAssemblyReference.cache
-C:\Users\minat\OneDrive\Desktop\githubSeminar\Seminar-\SeminarProjects\SeminarManagement\SeminarManagement.UI.Web\obj\Debug\netcoreapp3.1\SeminarManagement.UI.Web.AssemblyInfoInputs.cache
-C:\Users\minat\OneDrive\Desktop\githubSeminar\Seminar-\SeminarProjects\SeminarManagement\SeminarManagement.UI.Web\obj\Debug\netcoreapp3.1\SeminarManagement.UI.Web.AssemblyInfo.cs
-C:\Users\minat\OneDrive\Desktop\githubSeminar\Seminar-\SeminarProjects\SeminarManagement\SeminarManagement.UI.Web\bin\Debug\netcoreapp3.1\SeminarManagement.UI.Web.runtimeconfig.json
-C:\Users\minat\OneDrive\Desktop\githubSeminar\Seminar-\SeminarProjects\SeminarManagement\SeminarManagement.UI.Web\bin\Debug\netcoreapp3.1\SeminarManagement.UI.Web.runtimeconfig.dev.json
-C:\Users\minat\OneDrive\Desktop\githubSeminar\Seminar-\SeminarProjects\SeminarManagement\SeminarManagement.UI.Web\obj\Debug\netcoreapp3.1\SeminarManagement.UI.Web.genruntimeconfig.cache
