@@ -19,88 +19,85 @@ namespace SeminarManagement.Database.EFCore.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-            modelBuilder.Entity("SeminarMnagamenet.Models.Address", b =>
+            modelBuilder.Entity("SeminarMnagamenet.Models.ConfrenceRome", b =>
                 {
-                    b.Property<int>("Id")
+                    b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("int")
-                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Addresses");
-                });
-
-            modelBuilder.Entity("SeminarMnagamenet.Models.SeminarItem", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int")
-                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
-
-                    b.Property<string>("Name")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<int?>("TopicId")
-                        .HasColumnType("int");
-
-                    b.HasKey("Id");
-
-                    b.HasIndex("TopicId");
-
-                    b.ToTable("SeminarItems");
-                });
-
-            modelBuilder.Entity("SeminarMnagamenet.Models.Topic", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int")
-                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+                        .HasColumnType("uniqueidentifier");
 
                     b.Property<string>("Name")
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 
-                    b.ToTable("Topics");
+                    b.ToTable("ConfrenceRomes");
                 });
 
-            modelBuilder.Entity("SeminarMnagamenet.Models.Visitor", b =>
+            modelBuilder.Entity("SeminarMnagamenet.Models.Lectur", b =>
                 {
-                    b.Property<int>("Id")
+                    b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("int")
-                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+                        .HasColumnType("uniqueidentifier");
 
-                    b.Property<int>("Age")
-                        .HasColumnType("int");
+                    b.Property<DateTime>("EndAt")
+                        .HasColumnType("datetime2");
 
-                    b.Property<string>("Name")
+                    b.Property<string>("Lecturer")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int?>("SeminarItemId")
-                        .HasColumnType("int");
+                    b.Property<Guid?>("SeminarId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<DateTime>("StartAt")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("Topic")
+                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 
-                    b.HasIndex("SeminarItemId");
+                    b.HasIndex("SeminarId");
 
-                    b.ToTable("Visitors");
+                    b.ToTable("Lecturs");
                 });
 
-            modelBuilder.Entity("SeminarMnagamenet.Models.SeminarItem", b =>
+            modelBuilder.Entity("SeminarMnagamenet.Models.Seminar", b =>
                 {
-                    b.HasOne("SeminarMnagamenet.Models.Topic", "Topic")
-                        .WithMany()
-                        .HasForeignKey("TopicId");
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<Guid?>("ConfrenceRomeId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<int>("LengthOfTIME")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime>("Time")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("Title")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("ConfrenceRomeId");
+
+                    b.ToTable("Seminars");
                 });
 
-            modelBuilder.Entity("SeminarMnagamenet.Models.Visitor", b =>
+            modelBuilder.Entity("SeminarMnagamenet.Models.Lectur", b =>
                 {
-                    b.HasOne("SeminarMnagamenet.Models.SeminarItem", null)
-                        .WithMany("Visitors")
-                        .HasForeignKey("SeminarItemId");
+                    b.HasOne("SeminarMnagamenet.Models.Seminar", "Seminar")
+                        .WithMany("Lecturs")
+                        .HasForeignKey("SeminarId");
+                });
+
+            modelBuilder.Entity("SeminarMnagamenet.Models.Seminar", b =>
+                {
+                    b.HasOne("SeminarMnagamenet.Models.ConfrenceRome", "ConfrenceRome")
+                        .WithMany("Seminars")
+                        .HasForeignKey("ConfrenceRomeId");
                 });
 #pragma warning restore 612, 618
         }

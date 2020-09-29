@@ -10,3 +10,15 @@ C:\Users\minat\OneDrive\Desktop\SeminarManagement\SeminarManagment\SeminarManage
 C:\Users\minat\OneDrive\Desktop\SeminarManagement\SeminarManagment\SeminarManagement.Services\obj\Debug\netcoreapp3.1\SeminarManagement.Services.dll
 C:\Users\minat\OneDrive\Desktop\SeminarManagement\SeminarManagment\SeminarManagement.Services\obj\Debug\netcoreapp3.1\SeminarManagement.Services.pdb
 C:\Users\minat\OneDrive\Desktop\SeminarManagement\SeminarManagment\SeminarManagement.Services\obj\Debug\netcoreapp3.1\SeminarManagement.Services.genruntimeconfig.cache
+C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Services\bin\Debug\netcoreapp3.1\SeminarManagement.Services.deps.json
+C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Services\bin\Debug\netcoreapp3.1\SeminarManagement.Services.runtimeconfig.json
+C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Services\bin\Debug\netcoreapp3.1\SeminarManagement.Services.runtimeconfig.dev.json
+C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Services\bin\Debug\netcoreapp3.1\SeminarManagement.Services.dll
+C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Services\bin\Debug\netcoreapp3.1\SeminarManagement.Services.pdb
+C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Services\obj\Debug\netcoreapp3.1\SeminarManagement.Services.csprojAssemblyReference.cache
+C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Services\obj\Debug\netcoreapp3.1\SeminarManagement.Services.AssemblyInfoInputs.cache
+C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Services\obj\Debug\netcoreapp3.1\SeminarManagement.Services.AssemblyInfo.cs
+C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Services\obj\Debug\netcoreapp3.1\SeminarManagement.Services.csproj.CoreCompileInputs.cache
+C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Services\obj\Debug\netcoreapp3.1\SeminarManagement.Services.dll
+C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Services\obj\Debug\netcoreapp3.1\SeminarManagement.Services.pdb
+C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Services\obj\Debug\netcoreapp3.1\SeminarManagement.Services.genruntimeconfig.cache

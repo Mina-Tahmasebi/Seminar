@@ -7,18 +7,21 @@ using System.Threading.Tasks;
 
 namespace SeminarManagement.Database.EFCore
 {
-    public class AppDbContext : DbContext 
+    public class AppDbContext : DbContext
     {
         public AppDbContext(DbContextOptions options) : base(options)
         {
         }
 
-        public DbSet<Address> Addresses { get; set; }
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+        }
 
-        public DbSet<SeminarItem> SeminarItems { get; set; }
+        public DbSet<Seminar> Seminars { get; set; }
 
-        public DbSet<Topic> Topics { get; set; }
+        public DbSet<Lectur> Lecturs { get; set; }
 
-        public DbSet<Visitor> Visitors { get; set; }
+        public DbSet<ConfrenceRome> ConfrenceRomes { get; set; }
     }
 }

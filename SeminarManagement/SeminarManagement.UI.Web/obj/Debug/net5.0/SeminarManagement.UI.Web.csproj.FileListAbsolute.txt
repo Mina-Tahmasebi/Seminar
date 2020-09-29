@@ -712,3 +712,9 @@ C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.UI.Web\ob
 C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.UI.Web\obj\Debug\net5.0\ref\SeminarManagement.UI.Web.dll
 C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.UI.Web\obj\Debug\net5.0\SeminarManagement.UI.Web.pdb
 C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.UI.Web\obj\Debug\net5.0\SeminarManagement.UI.Web.genruntimeconfig.cache
+C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.UI.Web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.UI.Web\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.UI.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.UI.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.UI.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.UI.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
