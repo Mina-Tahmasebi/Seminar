@@ -65,5 +65,44 @@ namespace SeminarManagement.Api.Controllers
             }
         }
 
+        [HttpDelete]
+        public IActionResult Delete(Guid id)
+        {
+            try
+            {
+                var confrenceRome = _dbContext.ConfrenceRomes.FirstOrDefault(p => p.Id == id);
+                _dbContext.ConfrenceRomes.Remove(confrenceRome);
+
+                _dbContext.SaveChanges();
+
+                return Ok();
+            }
+            catch
+            {
+                return StatusCode(505);
+            }
+        }
+
+        [HttpPut]
+        public IActionResult Update([FromBody] ConfrenceRome confrenceRome)
+        {
+            try
+            {
+                var currentEntity = _dbContext.ConfrenceRomes.FirstOrDefault(p => p.Id == confrenceRome.Id);
+
+                currentEntity.Name = confrenceRome.Name;
+                currentEntity.Seminars = confrenceRome.Seminars;
+               
+                _dbContext.ConfrenceRomes.Update(currentEntity);
+
+                _dbContext.SaveChanges();
+
+                return Ok();
+            }
+            catch
+            {
+                return StatusCode(505);
+            }
+        }
     }
 }

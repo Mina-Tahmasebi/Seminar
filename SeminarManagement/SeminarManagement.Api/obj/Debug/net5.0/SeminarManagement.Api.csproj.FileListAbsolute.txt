@@ -80,6 +80,8 @@ C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Api\bin\D
 C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Api\bin\Debug\net5.0\SeminarManagement.Api.dll
 C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Api\bin\Debug\net5.0\ref\SeminarManagement.Api.dll
 C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Api\bin\Debug\net5.0\SeminarManagement.Api.pdb
+C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Api\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Api\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Api\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
 C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
@@ -97,6 +99,7 @@ C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Api\bin\D
 C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
 C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Api\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
 C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Api\bin\Debug\net5.0\ServiceStack.dll
 C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Api\bin\Debug\net5.0\ServiceStack.Api.Swagger.dll
 C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Api\bin\Debug\net5.0\ServiceStack.Client.dll
@@ -138,6 +141,3 @@ C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Api\obj\D
 C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Api\obj\Debug\net5.0\ref\SeminarManagement.Api.dll
 C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Api\obj\Debug\net5.0\SeminarManagement.Api.pdb
 C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Api\obj\Debug\net5.0\SeminarManagement.Api.genruntimeconfig.cache
-C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Api\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
-C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
-C:\000 Mina\githubSeminar\Seminar-\SeminarManagement\SeminarManagement.Api\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
